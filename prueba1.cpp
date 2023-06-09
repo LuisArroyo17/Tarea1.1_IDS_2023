@@ -1,6 +1,7 @@
 int main()
 {
     cout<<"Wasaaaaaaaaaaa";
-    cout<<"aea"
+    cout<<"aea";
+
     return 0;
 }
